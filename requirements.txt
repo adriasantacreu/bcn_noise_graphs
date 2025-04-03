@@ -4,4 +4,3 @@ plotly
 scipy
 pyproj
 numpy
-gunicorn
